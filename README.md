@@ -1,4 +1,4 @@
-# Kmers-distance
+# Kmers-distance in Fasta Files(Genomic sequences)
 Repository contains information about:
 1. Reading "Fasta" files using Biopython Package.
 2. Generating k-mer sequences from the file.
